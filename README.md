@@ -1,5 +1,5 @@
 # 📈 Amazon Stock Price Prediction – Time Series Forecasting
-In this laboratory assignment, the goal is to perform time series forecasting by predicting the current close price of Amazon stock using historical data. The dataset includes 7 days of previous stock statistics to predict the target value for the current day.
+The goal is to perform time series forecasting by predicting the current close price of Amazon stock using historical data. The dataset includes 7 days of previous stock statistics to predict the target value for the current day.
 
 ## 📊 Dataset Description
 **The Amazon Stock Price Dataset consists of the following columns:**
